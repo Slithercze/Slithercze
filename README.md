@@ -2,7 +2,7 @@
 - 👀 I’m interested in web, programming, backend
 - 🌱 I’m currently learning Java, Spring Boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me miroslav.doan921@gmail.com
+- 📫 How to reach me 
 
 <!---
 Slithercze/Slithercze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
