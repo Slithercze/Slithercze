@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miroslav.doan921@gmail.com**
 
-- ⚡ Fun fact **i can barely sum two numbers**
+- ⚡ Fun fact **idk**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slithercze" alt="slithercze" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
