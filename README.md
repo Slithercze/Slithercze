@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, soon Spring**
+- 🌱 I’m currently learning **Java Spring**
 
 - 📫 How to reach me **miroslav.doan921@gmail.com**
 
