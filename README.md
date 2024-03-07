@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miroslav.doan921@gmail.com**
 
-- ⚡ Fun fact **in free time i work on my car**
+- ⚡ Fun fact **in free time i work with my friends on my car**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slithercze" alt="slithercze" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
