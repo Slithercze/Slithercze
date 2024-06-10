@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **advanced Java Spring**
+- 🌱 I’m currently working on **WhaleBooks — accounting and tax calculation tool for cryptocurrency assets**
 
 - 📫 How to reach me **miroslav.doan921@gmail.com**
 
